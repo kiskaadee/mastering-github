@@ -3,9 +3,9 @@
 ## 1. Course Information
 * **Course:** Git Essentials for Beginners
 * **Module:** 02 - Basics of Version Control Systems
-* **Status:** ⬜ To Do | 🟨 In Progress | 🟩 Completed
-* **Date Studied:** YYYY-MM-DD
-* **Estimated Time:** [X] hours
+* **Status:** 🟨 In Progress | 🟩 Completed
+* **Date Studied:** 2026-06-22
+* **Estimated Time:** 20minutes
 
 ---
 
